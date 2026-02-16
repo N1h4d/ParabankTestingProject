@@ -11,7 +11,7 @@ Repository-ni IntelliJ IDEA üzərindən klonlayın:
 2.  New Project → From Version Control seçin
 
 3.  Repository URL-ni daxil edin:
-https://github.com/[istifadəçi_adınız]/ParabankTestingProject.git
+https://github.com/N1h4d/ParabankTestingProject
 4. Clone düyməsini basın
 
 Lazım Olan Kitabxanalar
